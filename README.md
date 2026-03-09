@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:ff0000&height=240&section=header&text=YouTube%20Search%20Quirer&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Automate%20%7C%20Search%20%7C%20Watch%20%7C%20No%20Shorts&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:ff0000&height=240&section=header&text=YouTube%20Search%20Quirer&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Automate%20%7C%20Search%20%7C%20Watch%20%7C%20Shorts&descAlignY=56&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -329,3 +329,4 @@ Result    →  "AGENTIC AI ADVANCED tutorial"
 *Built with automation and Python by Yash Brahmankar*
 
 </div>
+
