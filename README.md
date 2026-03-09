@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=📺+YouTube-Search-Quirer;Search.+Click.+Watch.;Zero+Shorts.+Zero+Noise.;Powered+by+Selenium+%2B+AI)](https://git.io/typing-svg)
-
 # 📺 YouTube-Search-Quirer
 
 **A YouTube automation & clone toolkit — search smarter, watch faster, skip the noise.**
@@ -44,7 +42,6 @@ It ships in three modes:
 ---
 
 ## 🗂️ Project Structure
-
 ```
 YouTube-Search-Quirer/
 │
@@ -69,14 +66,12 @@ YouTube-Search-Quirer/
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
-
 ```bash
 git clone https://github.com/loisekk/YouTube-Search-Quirer.git
 cd YouTube-Search-Quirer
 ```
 
 ### 2. Install dependencies
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -84,7 +79,6 @@ pip install -r requirements.txt
 ### 3. Configure your YouTube API key
 
 Open `youtube_api.py` and replace the placeholder:
-
 ```python
 API_KEY = "YOUR_YOUTUBE_DATA_API_KEY"
 ```
@@ -92,7 +86,6 @@ API_KEY = "YOUR_YOUTUBE_DATA_API_KEY"
 > Get your free API key from [Google Cloud Console](https://console.cloud.google.com/) → Enable **YouTube Data API v3**.
 
 ### 4. Set up ChromeDriver (for Selenium modes)
-
 ```bash
 pip install webdriver-manager
 ```
