@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=📺+YouTube-Search-Quirer;Search.+Click.+Watch.;Zero+Shorts.+Zero+Noise.;Powered+by+Selenium+%2B+AI)](https://git.io/typing-svg)
+
 # 📺 YouTube-Search-Quirer
 
 **A YouTube automation & clone toolkit — search smarter, watch faster, skip the noise.**
