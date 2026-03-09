@@ -1,0 +1,41 @@
+# Web App Framework
+streamlit==1.37.0
+
+# Browser Automation
+selenium==4.22.0
+webdriver-manager==4.0.2
+
+# HTTP Requests
+requests==2.32.3
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Google / YouTube APIs
+google-api-python-client==2.139.0
+google-auth==2.32.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# HTML Parsing
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Async Support
+aiohttp==3.10.5
+async-timeout==4.0.3
+
+# Logging & Utilities
+tqdm==4.66.4
+rich==13.7.1
+
+# AI / LLM Ready (future upgrade)
+openai==1.37.1
+langchain==0.2.12
+
+# JSON Handling
+orjson==3.10.7
